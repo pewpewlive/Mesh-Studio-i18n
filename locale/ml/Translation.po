@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Ppms\n"
+"Language: ml\n"
+
+#. == Global menu ==
+#. <-- File -->
+#: 
+msgid "File"
+msgstr "ഫയൽ"
+
+#: 
+msgid "New"
+msgstr "പുതിയത്"
+
+#: 
+msgid "Create a new project."
+msgstr "ഒരു പുതിയ പ്രോജക്റ്റ് സൃഷ്ടിക്കുക."
+
+#: 
+msgid "Open"
+msgstr "തുറക്കുക"
+
+#: 
+msgid "Open a project file."
+msgstr "ഒരു പ്രോജക്റ്റ് ഫയൽ തുറക്കുക."
+
+#: 
+msgid "Save"
+msgstr "സേവ്"
+
+#: 
+msgid "Saves the current project file."
+msgstr "നിലവിലെ പ്രോജക്റ്റ് ഫയൽ സേവ് ചെയ്യുന്നു."
+
+#: 
+msgid "Save as..."
+msgstr "മാറ്റി സേവ് ചെയ്യുക"
+
+#: 
+msgid "Saves the current project file in the desired location."
+msgstr "നിലവിലെ പ്രോജക്റ്റ് ഫയൽ ആവശ്യമുള്ള സ്ഥലത്ത് സംരക്ഷിക്കുന്നു."
+
+#: 
+msgid "Import"
+msgstr "ലോഡ് ചെയ്യുക"
+
+#: 
+msgid "Load a PewPew mesh or an SVG."
+msgstr "ഒരു PewPew മെഷ് അല്ലെങ്കിൽ ഒരു SVG ലോഡ് ചെയ്യുക."
+
+#: 
+msgid "Export"
+msgstr "എക്‌സ്‌പോർട്ട്"
+
+#: 
+msgid "Export the current project as a PewPew mesh."
+msgstr "ഒരു PewPew മെഷായി നിലവിലെ പ്രോജക്റ്റ് എക്‌സ്‌പോർട്ട് ചെയ്യുക."
+
+#: 
+msgid "Quit"
+msgstr "ഉപേക്ഷിക്കുക"
+
+#: 
+msgid "Quit PewPew Mesh Studio."
+msgstr "PewPew മെഷ് സ്റ്റുഡിയോയിൽ നിന്ന് പുറത്തുകടക്കുക."
+
+#. <-- Edit -->
+#: 
+msgid "Edit"
+msgstr "എഡിറ്റ് ചെയ്യുക"
+
+#: 
+msgid "Undo"
+msgstr "പഴയപടിയാക്കുക"
+
+#: 
+msgid "Undo previous action."
+msgstr "മുമ്പത്തെ പ്രവർത്തനം പഴയപടിയാക്കുക."
+
+#: 
+msgid "Redo"
+msgstr "വീണ്ടും ചെയ്യുക"
+
+#: 
+msgid "Redo previous action."
+msgstr "മുമ്പത്തെ പ്രവർത്തനം വീണ്ടും ചെയ്യുക."
+
+#: 
+msgid "Preferences"
+msgstr "മുൻഗണനകൾ"
+
+#: 
+msgid "Edit user preferences."
+msgstr "ഉപയോക്തൃ മുൻഗണനകൾ എഡിറ്റ് ചെയ്യുക."
+
+#: 
+msgid "About"
+msgstr "കുറിച്ച്"
+
+#: 
+msgid "Shows information about PewPew Mesh Studio."
+msgstr "PewPew മെഷ് സ്റ്റുഡിയോയെക്കുറിച്ചുള്ള വിവരങ്ങൾ കാണിക്കുന്നു."
+
+#. == File dialog ==
+#: 
+msgid "File Dialog"
+msgstr "ഫയൽ ഡയലോഗ്"
+
+#: 
+msgid "Refresh"
+msgstr "പുതുക്കുക"
+
+#: 
+msgid "Drives"
+msgstr "ഡ്രൈവുകൾ"
+
+#: 
+msgid "Path:"
+msgstr "പാത:"
+
+#: 
+msgid "Cancel"
+msgstr "റദ്ദാക്കുക"
+
+#: 
+msgid "New Folder"
+msgstr "പുതിയ ഫോൾഡർ"
+
+#: 
+msgid "File name"
+msgstr "ഫയലിന്റെ പേര്"
+
+#: 
+msgid "Enter path here"
+msgstr "ഇവിടെ പാത നൽകുക"
+
+#: 
+msgid "Create"
+msgstr "സൃഷ്ടിക്കാൻ"
+
+#. == About modal ==
+#: 
+msgid "About PewPew Mesh Studio"
+msgstr "PewPew മെഷ് സ്റ്റുഡിയോയെക്കുറിച്ച്"
+
+#: 
+msgid "Licensed under zlib license."
+msgstr "zlib ലൈസൻസിന് കീഴിൽ."
+
+#: 
+msgid "Copyright © PewPew Mesh Studio team & contributors."
+msgstr "പകർപ്പവകാശം © PewPew Mesh Studio ടീമും സംഭാവകരും."
+
+#: 
+msgid "GitHub"
+msgstr "GitHub"
+
+#: 
+msgid "Website"
+msgstr "വെബ്സൈറ്റ്"
+
+#. == Error modal ==
+#: 
+msgid "Error encountered"
+msgstr "പിശക് നേരിട്ടു"
+
+#: 
+msgid "Error: "
+msgstr "പിശക്: "
+
+#: 
+msgid "Exits the application with a non-zero exit code."
+msgstr "പൂജ്യമല്ലാത്ത എക്സിറ്റ് കോഡ് ഉപയോഗിച്ച് ആപ്ലിക്കേഷനിൽ നിന്ന് പുറത്തുകടക്കുന്നു."
+
+#: 
+msgid "Continue"
+msgstr "തുടരുക"
+
+#: 
+msgid "Continue running the application."
+msgstr "ആപ്ലിക്കേഷൻ പ്രവർത്തിപ്പിക്കുന്നത് തുടരുക."
+
+#. == Preferences ==
+#: 
+msgid "Graphics"
+msgstr "ഗ്രാഫിക്സ്"
+
+#: 
+msgid "Plugins"
+msgstr "പ്ലഗിനുകൾ"
+
+#: 
+msgid "Interface"
+msgstr "ഇന്റർഫേസ്"
+
+#: 
+msgid "Project"
+msgstr "പദ്ധതി"
+
+#: 
+msgid "Editor"
+msgstr "എഡിറ്റർ"
+
+#: 
+msgid "Mesh Rendering"
+msgstr "മെഷ് റെൻഡറിംഗ്"
+
+#: 
+msgid "Enable Antialiasing"
+msgstr "Antialiasing ഉപയോഗിക്കുക"
+
+#: 
+msgid "Toggles mesh antialiasing in Editor."
+msgstr "എഡിറ്ററിൽ മെഷ് Antialiasing ടോഗിൾ ചെയ്യുന്നു."
+
+#: 
+msgid "OpenGL version"
+msgstr "OpenGL പതിപ്പ്"
+
+#: 
+msgid "Choose an OpenGL version."
+msgstr "ഒരു OpenGL പതിപ്പ് തിരഞ്ഞെടുക്കുക."
+
+#: 
+msgid "Keybinds"
+msgstr "കീബൈൻഡുകൾ"
+
+#: 
+msgid "Plugins list"
+msgstr "പ്ലഗിന്നുകളുടെ ലിസ്റ്റ്"
+
+#: 
+msgid "Language"
+msgstr "ഭാഷ"
+
+#: 
+msgid "Font"
+msgstr "ഫോണ്ട്"
+
+#: 
+msgid "Theme"
+msgstr "തീം"
+
+#: 
+msgid "Dark"
+msgstr "കറുത്ത"
+
+#: 
+msgid "Light"
+msgstr "വെളുത്ത "
+
+#: 
+msgid "Classic"
+msgstr "ക്ലാസിക്"
+
+#: 
+msgid "Undo / Redo behavior"
+msgstr "പഴയപടിയാക്കുക / വീണ്ടും ചെയ്യുക"
+
+#: 
+msgid "Display Latest Action"
+msgstr "ഏറ്റവും പുതിയ പ്രവർത്തനം പ്രദർശിപ്പിക്കുക"
+
+#: 
+msgid "Displays last action you've done at the bottom of the Editor window."
+msgstr "എഡിറ്റർ വിൻഡോയുടെ ചുവടെ നിങ്ങൾ ചെയ്ത അവസാന പ്രവർത്തനം പ്രദർശിപ്പിക്കുന്നു."
+
+#: 
+msgid "Debug features"
+msgstr "ഡീബഗ് സവിശേഷതകൾ"
+
+#: 
+msgid "Display debug console"
+msgstr "ഡീബഗ് കൺസോൾ പ്രദർശിപ്പിക്കുക"
+
+#: 
+msgid "Displays debug console."
+msgstr "ഡീബഗ് കൺസോൾ പ്രദർശിപ്പിക്കുന്നു."
+
+#. == Unsaved changes modal ==
+#: 
+msgid "Alert"
+msgstr "മുന്നറിയിപ്പ്"
+
+#: 
+msgid "You have unsaved changes\n"
+"You sure you want to quit?"
+msgstr "നിങ്ങൾക്ക് സംരക്ഷിക്കാത്ത മാറ്റങ്ങളുണ്ട്\n"
+"നിങ്ങൾക്ക് ഉപേക്ഷിക്കണമെന്ന് തീർച്ചയാണോ?"
+
+#: 
+msgid "Don't show this again"
+msgstr "ഇത് വീണ്ടും കാണിക്കരുത്"
+
+#: 
+msgid "Save & Quit"
+msgstr "സംരക്ഷിക്കുക & പുറത്തുകടക്കുക"
+
+#. == Context menus ==
+#. <-- Context menu -->
+#: 
+msgid "Deselect"
+msgstr "തിരഞ്ഞെടുത്തത് മാറ്റുക"
+
+#: 
+msgid "Deselects your selection."
+msgstr "നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് തിരഞ്ഞെടുത്തത് മാറ്റുന്നു."
+
+#: 
+msgid "Copy"
+msgstr "പകർത്തുക"
+
+#: 
+msgid "Copies selection to clipboard."
+msgstr "തിരഞ്ഞെടുക്കൽ ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തുന്നു."
+
+#: 
+msgid "Paste"
+msgstr "പേസ്റ്റ്"
+
+#: 
+msgid "Pastes an item from clipboard."
+msgstr "ക്ലിപ്പ്ബോർഡിൽ നിന്ന് ഒരു ഇനം ഒട്ടിക്കുന്നു."
+
+#: 
+msgid "Subdivide"
+msgstr "വീതിക്കുന്നു"
+
+#: 
+msgid "Subdivides the selected vertices."
+msgstr "തിരഞ്ഞെടുത്ത പോയിൻ്റ് വീതിക്കുന്നു."
+
+#: 
+msgid "Delete"
+msgstr "ഇല്ലാതാക്കുക"
+
+#: 
+msgid "Deletes selected items."
+msgstr "തിരഞ്ഞെടുത്ത ഇനങ്ങൾ ഇല്ലാതാക്കുന്നു."
+
+#. <-- Object menu -->
+#: 
+msgid "Cube"
+msgstr "ക്യൂബ്"
+
+#: 
+msgid "Creates a cube."
+msgstr "ഒരു ക്യൂബ് സൃഷ്ടിക്കുന്നു."
+
+#: 
+msgid "Rectangle"
+msgstr "ദീർഘചതുരം"
+
+#: 
+msgid "Creates a mesh with 4 vertices."
+msgstr "4 ലംബങ്ങളുള്ള ഒരു മെഷ് സൃഷ്ടിക്കുന്നു."
+
+#: 
+msgid "UV Sphere"
+msgstr "UV ഗോളം"
+
+#: 
+msgid "Creates a UV sphere."
+msgstr "ഒരു UV ഗോളം സൃഷ്ടിക്കുന്നു."
+
+#: 
+msgid "Ico Sphere"
+msgstr "ഐക്കോ സ്ഫിയർ"
+
+#: 
+msgid "Creates an icosphere."
+msgstr "ഒരു ഐക്കോസ്ഫിയർ സൃഷ്ടിക്കുന്നു."
+
+#: 
+msgid "Cylinder"
+msgstr "സിലിണ്ടർ"
+
+#: 
+msgid "Creates a cylinder."
+msgstr "ഒരു സിലിണ്ടർ ഉണ്ടാക്കുന്നു."
+
+#: 
+msgid "Circle"
+msgstr "വൃത്തം"
+
+#: 
+msgid "Creates a 2D circle."
+msgstr "ഒരു 2D സർക്കിൾ സൃഷ്ടിക്കുന്നു."
+
+#: 
+msgid "Alpha"
+msgstr "ആൽഫ"
+
+#: 
+msgid "Construct Alpha ship mesh."
+msgstr "ആൽഫ ഷിപ്പ് മെഷ് നിർമ്മിക്കുക."
+
+#. == Inspector ==
+#: 
+msgid "Inspector"
+msgstr "ഇൻസ്പെക്ടർ"
+
+#: 
+msgid "Object: {0}"
+msgstr "വസ്തു: {0}"
+
+#: 
+msgid "Object Position"
+msgstr "ഒബ്ജക്റ്റ് സ്ഥാനം"
+
+#: 
+msgid "Meshes"
+msgstr "മെഷുകൾ"
+
+#: 
+msgid "Mesh Position"
+msgstr "മെഷ് സ്ഥാനം"
+
+#: 
+msgid "Vertex"
+msgstr "വെർട്ടക്സ്"
+
+#: 
+msgid "Position"
+msgstr "സ്ഥാനം"
+
+#: 
+msgid "Color"
+msgstr "നിറം"
+
+#. == Tools ==
+#: 
+msgid "Tools"
+msgstr "ഉപകരണങ്ങൾ"
+
+#: 
+msgid "View"
+msgstr "കാണുക"
+
+#: 
+msgid "Isometric"
+msgstr "ഐസോമെട്രിക്"
+
