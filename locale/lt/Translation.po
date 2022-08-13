@@ -78,7 +78,7 @@ msgstr "Rodo informaciją apie „PewPew Mesh Studio“."
 # == File dialog ==
 
 msgid "File Dialog"
-msgstr "Failo langas"
+msgstr "Failo Langas"
 
 msgid "Refresh"
 msgstr "Atnaujinti"
