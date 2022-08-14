@@ -1,0 +1,341 @@
+# == Global menu ==
+# <-- File -->
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "Create a new project."
+msgstr "Φτιάξτε νέα εργασία."
+
+msgid "Open"
+msgstr "Άνοιγμα"
+
+msgid "Open a project file."
+msgstr "Ανοίξτε ένα αρχείο εργασίας."
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Saves the current project file."
+msgstr "Αποθηκεύει το αρχείο εργασίας."
+
+msgid "Save as..."
+msgstr "Αποθήκευση ως..."
+
+msgid "Saves the current project file in the desired location."
+msgstr "Αποθηκεύει το αρχείο εργασίας στην επιθυμητή τοποθεσία."
+
+msgid "Import"
+msgstr "Εισάγετε"
+
+msgid "Load a PewPew mesh or an SVG."
+msgstr "Ανοίξτε ένα PewPew μοντέλο ή ένα SVG."
+
+msgid "Export"
+msgstr "Εξάγετε"
+
+msgid "Export the current project as a PewPew mesh."
+msgstr "Εξάγετε το αρχείο εργασείας ως ένα PewPew μοντέλο."
+
+msgid "Quit"
+msgstr "Βγείτε"
+
+msgid "Quit PewPew Mesh Studio."
+msgstr "Βγείτε από το PewPew Mesh Studio."
+
+# <-- Edit -->
+
+msgid "Edit"
+msgstr "Αλλαγή"
+
+msgid "Undo"
+msgstr "Επανόρθωση"
+
+msgid "Undo previous action."
+msgstr "Επανορθώστε την προηγούμενη δράση."
+
+msgid "Redo"
+msgstr "Ξανακάνετε"
+
+msgid "Redo previous action."
+msgstr "Ξανακάνετε την προηγούμενη δράση."
+
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+msgid "Edit user preferences."
+msgstr "Αλλάξτε προτιμήσεις χρήστη."
+
+msgid "About"
+msgstr "Πληροφορίες"
+
+msgid "Shows information about PewPew Mesh Studio."
+msgstr "Δείχνει πληροφορίες για το PewPew Mesh Studio."
+
+# == File dialog ==
+
+msgid "File Dialog"
+msgstr "Διάλογο Αρχείο"
+
+msgid "Refresh"
+msgstr "Ανανέωση"
+
+msgid "Drives"
+msgstr "Drives"
+
+msgid "Path:"
+msgstr "Μονοπάτι:"
+
+msgid "Cancel"
+msgstr "Απόρριψη"
+
+msgid "New Folder"
+msgstr "Νέο Αρχείο"
+
+msgid "File name"
+msgstr "Όνομα αρχείου"
+
+msgid "Enter path here"
+msgstr "Εισάγετε το μονοπάτι εδώ"
+
+msgid "Create"
+msgstr "Δημιούργηση"
+
+# == About modal ==
+
+msgid "About PewPew Mesh Studio"
+msgstr "Σχετικά με το PewPew Mesh Studio"
+
+msgid "Licensed under zlib license."
+msgstr "Εξουσιοδοτημένο κάτω από zlib license."
+
+msgid "Copyright © PewPew Mesh Studio team & contributors."
+msgstr "Copyright © PewPew Mesh Studio team & contributors."
+
+msgid "GitHub"
+msgstr "Github"
+
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+# == Error modal ==
+
+msgid "Error encountered"
+msgstr "Βρέθηκε σφάλμα"
+
+msgid "Error: "
+msgstr "Σφάλμα: "
+
+msgid "Exits the application with a non-zero exit code."
+msgstr "Κλείνει την εφαρμογή με non-zero exit code."
+
+msgid "Continue"
+msgstr "Συνεχίστε"
+
+msgid "Continue running the application."
+msgstr "Συνεχίστε να τρέχετε την εφάρμογη."
+
+# == Preferences ==
+
+msgid "Graphics"
+msgstr "Γραφικά"
+
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+msgid "Interface"
+msgstr "Περιβάλλον"
+
+msgid "Project"
+msgstr "Εργασία"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Mesh Rendering"
+msgstr "Μοντέλο Rendering"
+
+msgid "Enable Antialiasing"
+msgstr "Ενεργοποιήστε Antialiasing"
+
+msgid "Toggles mesh antialiasing in Editor."
+msgstr "Ενεργοποιεί antialiasing για μοντέλα στο Editor."
+
+msgid "OpenGL version"
+msgstr "OpenGL έκδοση"
+
+msgid "Choose an OpenGL version."
+msgstr "Διαλέξτε μια έκδοση του OpenGL."
+
+msgid "Keybinds"
+msgstr "Πλήκτρα"
+
+msgid "Plugins list"
+msgstr "Λίστα Προσθέτων"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Font"
+msgstr "Γραμματοσειρά"
+
+msgid "Theme"
+msgstr "Εμφάνιση"
+
+msgid "Dark"
+msgstr "Σκοτεινό"
+
+msgid "Light"
+msgstr "Ανοιχτό"
+
+msgid "Classic"
+msgstr "Κλασσικό"
+
+msgid "Undo / Redo behavior"
+msgstr "Συμπεριφορά Επανόρθωση / Ξανακάνε"
+
+msgid "Display Latest Action"
+msgstr "Εμφάνιση της πιο πρόσφατης δράσης"
+
+msgid "Displays last action you've done at the bottom of the Editor window."
+msgstr "Δείχνει την πιο πρόσφατη δράση σου στο κάτω μέρος του Editor."
+
+msgid "Debug features"
+msgstr "Χαρακτηριστηκά του Debug"
+
+msgid "Display debug console"
+msgstr "Εμφάνιση της debug κονσόλας"
+
+msgid "Displays debug console."
+msgstr "Εμφανίζει την debug κονσόλα"
+
+# == Unsaved changes modal ==
+
+msgid "Alert"
+msgstr "Προειδοποίηση"
+
+msgid "You have unsaved changes\nYou sure you want to quit?"
+msgstr "Έχετε μη αποθηκευμένες αλλαγές\nΣίγουρα θέλετε να βγείτε?"
+
+msgid "Don't show this again"
+msgstr "Μην το ξαναδείξετε αυτό."
+
+msgid "Save & Quit"
+msgstr "Αποθήκευση & Βγείτε"
+
+# == Context menus ==
+# <-- Context menu -->
+
+msgid "Deselect"
+msgstr "Αποεπιλέξτε"
+
+msgid "Deselects your selection."
+msgstr "Αποεπιλέξτε την επιλογή σας."
+
+msgid "Copy"
+msgstr "Αντιγραφή"
+
+msgid "Copies selection to clipboard."
+msgstr "Αντιγράφει την επιλογή στο πρόχειρο."
+
+msgid "Paste"
+msgstr "Επικόλληση"
+
+msgid "Pastes an item from clipboard."
+msgstr "Επικολλεί ενα αντικείμενο από το πρόχειρο."
+
+msgid "Subdivide"
+msgstr "Υποδιαίρεση"
+
+msgid "Subdivides the selected vertices."
+msgstr "Υποδιαιρεί τις επιλεγμένες γωνίες."
+
+msgid "Delete"
+msgstr "Διαγραφή"
+
+msgid "Deletes selected items."
+msgstr "Διαγράφει επιλεγμένα αντικείμενα."
+
+# <-- Object menu -->
+
+msgid "Cube"
+msgstr "Κύβος"
+
+msgid "Creates a cube."
+msgstr "Φτιάχνει ένα κύβο."
+
+msgid "Rectangle"
+msgstr "Ορθογώνιο Παραλληλόγραμμο"
+
+msgid "Creates a mesh with 4 vertices."
+msgstr "Φτιάχνει ένα μοντέλο με 4 γωνίες."
+
+msgid "UV Sphere"
+msgstr "UV Σφαίρα"
+
+msgid "Creates a UV sphere."
+msgstr "Φτιάχνει μια UV σφαίρα."
+
+msgid "Ico Sphere"
+msgstr "Εικόσφαιρα"
+
+msgid "Creates an icosphere."
+msgstr "Φτιάχνει μια εικόσφαιρα."
+
+msgid "Cylinder"
+msgstr "Κύλινδρος"
+
+msgid "Creates a cylinder."
+msgstr "Φτιάχνει ένα κύλινδρο."
+
+msgid "Circle"
+msgstr "Κύκλος"
+
+msgid "Creates a 2D circle."
+msgstr "Φτίαχνει ένα δισδυαστατο κύκλο."
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Construct Alpha ship mesh."
+msgstr "Φτίχνει το μοντέλο Alpha ship."
+
+# == Inspector ==
+
+msgid "Inspector"
+msgstr "Παρατηρητής"
+
+msgid "Object: {0}"
+msgstr "Αντικείμενο: {0}"
+
+msgid "Object Position"
+msgstr "Τοποθεσία Αντικειμένου"
+
+msgid "Meshes"
+msgstr "Μοντέλα"
+
+msgid "Mesh Position"
+msgstr "Τοποθεσία Μοντέλου"
+
+msgid "Vertex"
+msgstr "Γωνίες"
+
+msgid "Position"
+msgstr "Τοποθεσία"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+# == Tools ==
+
+msgid "Tools"
+msgstr "Εργαλεία"
+
+msgid "View"
+msgstr "Θέα"
+
+msgid "Isometric"
+msgstr "Ισομερής"
