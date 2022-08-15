@@ -339,3 +339,6 @@ msgstr ""
 
 msgid "Isometric"
 msgstr ""
+
+msgid "Enable colors"
+msgstr ""
