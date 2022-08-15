@@ -118,6 +118,9 @@ msgstr ""
 msgid "GitHub"
 msgstr ""
 
+msgid "Translate"
+msgstr ""
+
 msgid "Website"
 msgstr ""
 
