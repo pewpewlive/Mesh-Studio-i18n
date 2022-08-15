@@ -339,3 +339,6 @@ msgstr "Žiūrėti"
 
 msgid "Isometric"
 msgstr "Izometrinis"
+
+msgid "Enable colors"
+msgstr "Įjungti spalvas"
