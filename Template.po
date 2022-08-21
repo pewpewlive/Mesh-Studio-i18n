@@ -106,6 +106,9 @@ msgstr ""
 
 # == About modal ==
 
+msgid "Version: "
+msgstr ""
+
 msgid "About PewPew Mesh Studio"
 msgstr ""
 
