@@ -9,4 +9,4 @@ Translation process is very similar to [ppl-i18n](https://github.com/pewpewlive/
 Use of poedit is discouraged since it adds header data we don't need and it adds unnecessary comments.
 
 ### What is `.mo` file?
-`.mo` file is `.po` file, but in binary form. You can generate it using `msgfmt` utility or we will compile it for you.
+`.mo` file is `.po` file, but in binary form. You can generate it using `msgfmt` utility, [in this website](https://ezgif.com/po-to-mo) or we will compile it for you.
